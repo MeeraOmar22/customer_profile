@@ -1,0 +1,501 @@
+customer_id,date,age,income,occupation,credit_amount,debit_amount,balance,investment_return_percent,credit_score,feedback
+CUST0001,15/1/2025,56,2860,Trader,251.82,241.38,4531.69,0.03,630,Saving for a house.
+CUST0002,21/1/2025,20,,Student,153.53,118.49,3857.24,,321,Trying to improve my credit score.
+CUST0003,28/1/2025,59,,Trader,217.77,103.92,5284.93,0.43,804,I might reduce spending on dining.
+CUST0004,4/1/2025,56,7393,Designer,207.61,189.88,4719.56,0.43,639,I plan to increase my savings next month.
+CUST0005,3/1/2025,25,14206,Teacher,181.64,173.36,2469.76,2.68,689,
+CUST0006,12/1/2025,35,8873,Engineer,259.08,160.28,4768.7,-0.1,637,Planning to buy a car soon.
+CUST0007,29/1/2025,62,9208,Consultant,246.57,203.26,6788.66,2.01,789,Saving for a house.
+CUST0008,16/1/2025,25,5104,Engineer,317.52,82.57,6900.01,3.95,846,I need to manage my expenses better.
+CUST0009,26/1/2025,18,3028,Consultant,137.62,99.37,4698.93,-1.43,540,Saving for a house.
+CUST0010,13/1/2025,40,8374,Engineer,86.51,161.42,5271.51,1.72,542,I need to manage my expenses better.
+CUST0011,20/1/2025,23,5627,Nurse,207.77,208.12,3595.89,,676,Planning to buy a car soon.
+CUST0012,6/1/2025,20,9526,Teacher,12.41,170.73,4208.97,-0.08,673,I need to manage my expenses better.
+CUST0013,20/1/2025,66,8585,Designer,265.43,86.72,3483.35,1.41,380,Saving for a house.
+CUST0014,1/1/2025,40,10164,Engineer,314.68,213.95,2.48,3.46,715,I plan to increase my savings next month.
+CUST0015,6/1/2025,34,10958,Nurse,312.22,65.89,6173.71,4.88,443,Investing more into mutual funds.
+CUST0016,20/1/2025,46,11986,Developer,112.26,109.06,6775.02,1.71,447,Looking to diversify investments.
+CUST0017,8/1/2025,56,4385,Trader,168.94,96.87,4286.51,1.61,443,Saving for a house.
+CUST0018,30/1/2025,19,7423,Student,84.8,221.44,7598.79,-1.23,430,I might reduce spending on dining.
+CUST0019,17/1/2025,69,,Student,223.45,107.14,8731.55,1.45,460,I might reduce spending on dining.
+CUST0020,17/1/2025,25,3218,Nurse,233.45,36.81,9546.69,0.79,321,I need to manage my expenses better.
+CUST0021,27/1/2025,25,5354,Developer,201.04,237.21,4470.69,5.94,752,Investing more into mutual funds.
+CUST0022,17/1/2025,66,9679,Nurse,199.07,161.44,6213.95,-0.2,336,Planning to buy a car soon.
+CUST0023,1/1/2025,52,2699,Teacher,182.6,121.48,3781.25,-1.13,622,Trying to improve my credit score.
+CUST0024,14/1/2025,20,3895,Engineer,218.48,101.46,7114.85,0.6,403,Planning to buy a car soon.
+CUST0025,23/1/2025,46,7801,Student,75.89,119.37,3534.1,0.89,335,I plan to increase my savings next month.
+CUST0026,12/1/2025,33,12893,Nurse,75.16,270.02,2599.74,2.9,489,
+CUST0027,6/1/2025,69,6777,Trader,228.35,37.18,6932.78,-0.52,304,Looking to diversify investments.
+CUST0028,3/1/2025,47,6142,Designer,309.07,199.73,5030.29,1.38,419,Investing more into mutual funds.
+CUST0029,30/1/2025,54,10308,Designer,240.4,201.95,2599.41,-0.17,812,Investing more into mutual funds.
+CUST0030,13/1/2025,42,14775,Teacher,230.18,249.08,2346.34,4.19,375,Investing more into mutual funds.
+CUST0031,28/1/2025,46,14237,Student,235.51,196.48,3146.14,0.38,731,I might reduce spending on dining.
+CUST0032,26/1/2025,54,12262,Teacher,323.45,229.4,4743.18,-0.43,741,Trying to improve my credit score.
+CUST0033,16/1/2025,33,4839,Teacher,183.8,153.65,6294.33,0.75,679,I need to manage my expenses better.
+CUST0034,1/1/2025,29,10002,Engineer,222.48,112.64,4583.76,-0.49,717,Planning to buy a car soon.
+CUST0035,11/1/2025,67,11708,Designer,228.96,184.88,3740.6,2.25,693,I need to manage my expenses better.
+CUST0036,4/1/2025,52,6079,Teacher,302.21,114.51,6094.19,0.1,336,Planning to buy a car soon.
+CUST0037,30/1/2025,52,6968,Student,200.97,205.86,3953.62,,318,Planning to buy a car soon.
+CUST0038,7/1/2025,29,6360,Teacher,208.29,166.06,2315.37,-6.23,443,I plan to increase my savings next month.
+CUST0039,21/1/2025,38,9651,Consultant,249.93,187.7,4975.51,-1.29,697,Looking to diversify investments.
+CUST0040,18/1/2025,60,10010,Developer,207.21,154.96,4483.16,2.87,467,Saving for a house.
+CUST0041,5/1/2025,22,8172,Developer,235.64,62.29,5579.77,0.13,600,I need to manage my expenses better.
+CUST0042,7/1/2025,61,7301,Student,268.61,140.4,4961.97,-1.51,519,I plan to increase my savings next month.
+CUST0043,1/1/2025,58,12150,Teacher,111.66,195.69,3901.48,-4.42,708,Planning to buy a car soon.
+CUST0044,13/1/2025,61,14972,Designer,217.93,150.76,5195.35,-1.05,831,I might reduce spending on dining.
+CUST0045,1/1/2025,32,5486,Engineer,296.03,258.97,4778.14,2.45,672,I plan to increase my savings next month.
+CUST0046,28/1/2025,67,2539,Designer,93.95,103.73,4010.21,0.4,500,I need to manage my expenses better.
+CUST0047,14/1/2025,46,,Developer,334.77,46.18,5284.1,2.57,304,Looking to diversify investments.
+CUST0048,25/1/2025,49,9449,Developer,190.84,224.27,1811.14,-0.7,817,Investing more into mutual funds.
+CUST0049,23/1/2025,20,3460,Trader,163.99,187.37,2864.76,0.22,350,Looking to diversify investments.
+CUST0050,2/1/2025,57,12015,Consultant,133.77,131.77,5484.67,4.59,417,Planning to buy a car soon.
+CUST0051,30/1/2025,61,10580,Consultant,180.08,208.29,6290.75,3.24,374,
+CUST0052,2/1/2025,55,11521,Developer,265.87,273.15,5502.39,-0.41,548,I might reduce spending on dining.
+CUST0053,17/1/2025,59,9730,Engineer,198.82,197.78,4437.23,-2.83,845,I might reduce spending on dining.
+CUST0054,11/1/2025,60,14015,Developer,229.33,93.61,3972.27,-1.62,494,Trying to improve my credit score.
+CUST0055,21/1/2025,68,9570,Developer,157.58,102.43,4785.94,-1.57,645,I plan to increase my savings next month.
+CUST0056,26/1/2025,44,9240,Student,241.17,222.28,6702.71,-0.74,552,I might reduce spending on dining.
+CUST0057,28/1/2025,31,14761,Developer,149.88,18.47,6702.8,-1.48,662,Trying to improve my credit score.
+CUST0058,15/1/2025,52,3906,Nurse,223.49,120.67,5519.84,-2.08,572,I plan to increase my savings next month.
+CUST0059,20/1/2025,34,5596,Designer,25.87,126.54,4403.79,4.85,527,Investing more into mutual funds.
+CUST0060,19/1/2025,66,8891,Designer,78.15,81.85,5451.99,2.18,742,Trying to improve my credit score.
+CUST0061,22/1/2025,50,3460,Developer,150.63,74.47,7377.6,0.42,745,Trying to improve my credit score.
+CUST0062,8/1/2025,20,10434,Student,213.92,204.47,4982.42,1.4,740,Saving for a house.
+CUST0063,26/1/2025,62,8469,Engineer,138.94,41.71,1744.92,0.6,300,I plan to increase my savings next month.
+CUST0064,11/1/2025,28,8988,Engineer,61.63,224.5,9134.09,-3.39,471,Saving for a house.
+CUST0065,17/1/2025,54,12568,Nurse,194.27,88.57,7576.81,1.43,394,Trying to improve my credit score.
+CUST0066,24/1/2025,31,3908,Consultant,253.45,138.65,6158.61,1.49,528,Looking to diversify investments.
+CUST0067,27/1/2025,22,4898,Consultant,259.39,164.61,6640.49,-2.91,701,Investing more into mutual funds.
+CUST0068,6/1/2025,68,9804,Nurse,13.89,240.65,1278.18,,802,Investing more into mutual funds.
+CUST0069,6/1/2025,56,3970,Student,213.22,184.14,3250.39,-0.3,314,Investing more into mutual funds.
+CUST0070,29/1/2025,44,2419,Nurse,163.25,99.01,6660.67,-1.21,553,I might reduce spending on dining.
+CUST0071,22/1/2025,27,,Nurse,302.96,123.32,4145.18,-0.61,429,Investing more into mutual funds.
+CUST0072,27/1/2025,43,12026,Engineer,115.33,119.23,5341.19,2.17,322,Trying to improve my credit score.
+CUST0073,30/1/2025,30,9783,Trader,178.49,123.61,6286.71,3.63,655,
+CUST0074,28/1/2025,59,13248,Designer,149.61,138.99,4341.45,-0.44,645,Looking to diversify investments.
+CUST0075,15/1/2025,68,7031,Designer,152.95,142,7141.99,-0.67,416,I plan to increase my savings next month.
+CUST0076,6/1/2025,43,12314,Engineer,96.8,72.3,4328.43,3.84,478,I need to manage my expenses better.
+CUST0077,29/1/2025,41,8320,Teacher,347.92,217.59,4462.22,-1.71,775,Saving for a house.
+CUST0078,30/1/2025,49,13404,Student,137.4,190.46,4770.31,0.81,584,Investing more into mutual funds.
+CUST0079,1/1/2025,36,4065,Engineer,179.6,240.24,-301.94,2.68,413,I need to manage my expenses better.
+CUST0080,7/1/2025,25,14342,Trader,133.71,205.3,5127.27,2.4,386,Investing more into mutual funds.
+CUST0081,25/1/2025,25,2832,Developer,143.64,106.3,5197.49,0.24,350,I need to manage my expenses better.
+CUST0082,14/1/2025,49,7207,Developer,299.98,175.22,4448.38,-1.62,306,Planning to buy a car soon.
+CUST0083,19/1/2025,65,5452,Nurse,66.42,255.88,2517,,685,Looking to diversify investments.
+CUST0084,30/1/2025,54,3279,Engineer,275.98,128.34,4289.94,1.01,457,I plan to increase my savings next month.
+CUST0085,19/1/2025,34,14145,Engineer,336.11,155.26,3411.39,3.74,500,Investing more into mutual funds.
+CUST0086,2/1/2025,46,13372,Designer,69.63,183.11,9011.15,1.94,677,Trying to improve my credit score.
+CUST0087,6/1/2025,44,9992,Teacher,127.47,200.67,4802.27,5.1,700,Trying to improve my credit score.
+CUST0088,22/1/2025,19,5067,Trader,172.16,161.91,2131.27,1.66,448,Saving for a house.
+CUST0089,22/1/2025,56,11442,Designer,366.51,131.73,5190.64,0.86,588,Saving for a house.
+CUST0090,30/1/2025,69,14112,Developer,161.59,287.91,2463.96,-2.16,516,Planning to buy a car soon.
+CUST0091,18/1/2025,52,14418,Designer,250.59,208.35,6243.62,-2.64,574,Saving for a house.
+CUST0092,25/1/2025,34,2329,Nurse,94.45,136.43,7129.14,0.74,380,Looking to diversify investments.
+CUST0093,25/1/2025,42,8609,Trader,308.39,211.72,5289.87,-0.26,587,I might reduce spending on dining.
+CUST0094,26/1/2025,38,5157,Nurse,141.36,128.31,3361.47,1.73,797,Saving for a house.
+CUST0095,3/1/2025,69,11126,Consultant,275.06,119.04,5192.24,-0.42,487,I might reduce spending on dining.
+CUST0096,23/1/2025,43,6278,Trader,185.05,123.62,7893.96,0.89,696,I might reduce spending on dining.
+CUST0097,3/1/2025,19,10502,Student,206.58,213.93,3965.42,3.32,544,I need to manage my expenses better.
+CUST0098,25/1/2025,27,9069,Developer,222.96,24.89,1277.3,-0.1,623,Investing more into mutual funds.
+CUST0099,15/1/2025,63,4632,Consultant,324.04,90.1,6968.64,0.07,601,I need to manage my expenses better.
+CUST0100,8/1/2025,24,,Trader,213.32,179.55,5578.34,5.41,629,
+CUST0101,5/1/2025,20,5845,Consultant,313.64,115.76,3335.29,1.44,459,Investing more into mutual funds.
+CUST0102,4/1/2025,42,12568,Designer,132.79,159.88,4274.93,1.67,840,Saving for a house.
+CUST0103,25/1/2025,26,14327,Teacher,131.96,156.28,1502.91,,627,I might reduce spending on dining.
+CUST0104,16/1/2025,54,13579,Nurse,158.59,163.43,4967.15,2.88,523,Planning to buy a car soon.
+CUST0105,27/1/2025,57,8183,Student,232.75,188.28,7203.31,0.63,391,Planning to buy a car soon.
+CUST0106,25/1/2025,60,4604,Consultant,125.74,185.66,7080.41,0.31,725,Saving for a house.
+CUST0107,4/1/2025,48,12321,Student,325.38,170.59,3435.81,-0.73,824,Saving for a house.
+CUST0108,28/1/2025,48,9009,Trader,168.72,109.77,4907.16,-0.16,711,Looking to diversify investments.
+CUST0109,4/1/2025,21,9059,Developer,185.09,125.72,4274.09,,321,Investing more into mutual funds.
+CUST0110,12/1/2025,64,10476,Nurse,155.29,172.63,8131.05,0.37,837,I need to manage my expenses better.
+CUST0111,9/1/2025,52,8540,Consultant,235.2,119.88,2957.53,1.92,429,Investing more into mutual funds.
+CUST0112,30/1/2025,20,4896,Trader,182.21,81.18,4770.82,1.77,383,Looking to diversify investments.
+CUST0113,28/1/2025,18,14857,Student,275.37,201.61,5707.53,-0.08,823,I need to manage my expenses better.
+CUST0114,17/1/2025,63,2984,Nurse,330.12,1.12,6027.67,-0.01,677,Planning to buy a car soon.
+CUST0115,30/1/2025,31,13536,Designer,145.89,258.06,4919.68,-2.36,800,I plan to increase my savings next month.
+CUST0116,8/1/2025,30,12960,Engineer,357.03,126.9,5656.99,0.36,465,Saving for a house.
+CUST0117,8/1/2025,55,5496,Consultant,275.19,200.76,4353.29,0.6,609,I might reduce spending on dining.
+CUST0118,28/1/2025,49,14529,Trader,205,103.17,4057.78,2.65,402,Trying to improve my credit score.
+CUST0119,2/1/2025,67,,Designer,208.14,133.56,5421.14,2.26,372,Trying to improve my credit score.
+CUST0120,18/1/2025,25,5911,Nurse,301.22,183.56,4329.18,5.33,758,Looking to diversify investments.
+CUST0121,3/1/2025,43,2894,Developer,334.85,122.38,8464.43,2.65,836,I might reduce spending on dining.
+CUST0122,8/1/2025,53,6780,Engineer,185.12,212.57,6011.98,-3.49,358,Planning to buy a car soon.
+CUST0123,15/1/2025,46,8078,Developer,179.41,49.88,5798.45,1.79,323,Investing more into mutual funds.
+CUST0124,24/1/2025,37,2955,Engineer,276.18,326.77,4181.09,0.65,811,Saving for a house.
+CUST0125,19/1/2025,56,14201,Student,264.04,160.76,6065.72,-2.01,320,I need to manage my expenses better.
+CUST0126,23/1/2025,65,14765,Engineer,89.15,236.66,-219.68,1.26,617,Trying to improve my credit score.
+CUST0127,2/1/2025,56,5155,Student,221.46,107.18,3252.1,-2.75,462,I might reduce spending on dining.
+CUST0128,23/1/2025,53,14588,Student,75.53,133.66,809.68,1.01,660,Saving for a house.
+CUST0129,22/1/2025,18,12552,Designer,267.77,223.35,7429.02,0.32,455,Looking to diversify investments.
+CUST0130,14/1/2025,37,5953,Student,203.87,108.75,4738.17,-1.57,358,
+CUST0131,21/1/2025,59,10467,Student,357.73,137.21,5135.51,1.3,483,Trying to improve my credit score.
+CUST0132,30/1/2025,37,8294,Nurse,288.65,87.61,6225.55,-1.61,640,I plan to increase my savings next month.
+CUST0133,22/1/2025,22,11710,Student,264.42,76.86,4896.74,0.89,713,Trying to improve my credit score.
+CUST0134,12/1/2025,57,14144,Trader,215.86,134.42,5361.29,2,586,Looking to diversify investments.
+CUST0135,28/1/2025,43,10125,Teacher,227.39,83.3,6604.94,-0.3,388,Trying to improve my credit score.
+CUST0136,4/1/2025,58,9114,Student,297.86,191.65,4776.96,2.04,781,I need to manage my expenses better.
+CUST0137,24/1/2025,28,5712,Developer,278.37,69.91,7218.52,-2.42,442,Looking to diversify investments.
+CUST0138,17/1/2025,66,10927,Developer,175.76,147.92,2623.03,1.12,302,I plan to increase my savings next month.
+CUST0139,25/1/2025,45,3177,Consultant,88.83,51.28,7045.14,5.38,342,Looking to diversify investments.
+CUST0140,21/1/2025,60,11196,Nurse,260.71,166.87,5208.4,0.37,623,Planning to buy a car soon.
+CUST0141,21/1/2025,21,9151,Student,120.91,83.78,5359.79,3.28,443,Investing more into mutual funds.
+CUST0142,26/1/2025,30,8787,Student,189.26,140.45,3061.6,1.6,458,I might reduce spending on dining.
+CUST0143,4/1/2025,59,7047,Trader,134.19,140.98,4076.74,,661,Investing more into mutual funds.
+CUST0144,28/1/2025,38,8869,Consultant,143.84,110.23,2194.79,4,451,I plan to increase my savings next month.
+CUST0145,19/1/2025,67,8807,Nurse,234.84,203.54,6173.36,1.86,738,Looking to diversify investments.
+CUST0146,23/1/2025,51,14960,Developer,95.05,158.66,2873.2,-0.98,754,Trying to improve my credit score.
+CUST0147,3/1/2025,42,2769,Developer,333.78,205.38,1263.6,-3.45,758,Investing more into mutual funds.
+CUST0148,10/1/2025,43,3125,Nurse,213.53,165.09,6619.08,-2.12,372,Planning to buy a car soon.
+CUST0149,17/1/2025,21,3804,Nurse,239.47,207.92,5392.34,-0.7,529,Investing more into mutual funds.
+CUST0150,6/1/2025,20,10533,Developer,188.52,118.28,1097.76,-0.76,741,I might reduce spending on dining.
+CUST0151,30/1/2025,33,4665,Engineer,299.93,131.99,4959.96,1.27,841,I plan to increase my savings next month.
+CUST0152,8/1/2025,22,8099,Trader,139.74,197.36,3702.67,1.05,705,I need to manage my expenses better.
+CUST0153,6/1/2025,33,12699,Engineer,176.74,125.53,2686.5,-2.58,748,Planning to buy a car soon.
+CUST0154,6/1/2025,21,6406,Consultant,199.51,200.31,5163.66,0.3,457,I plan to increase my savings next month.
+CUST0155,9/1/2025,33,9693,Nurse,165.27,117.37,5174.63,1.59,565,Trying to improve my credit score.
+CUST0156,14/1/2025,53,10286,Developer,158.7,205.91,3400.92,1.2,836,Looking to diversify investments.
+CUST0157,13/1/2025,49,,Designer,258.06,122.46,1687.13,3.01,586,Looking to diversify investments.
+CUST0158,11/1/2025,19,8525,Developer,251.67,232.46,3803.01,-2.98,398,Saving for a house.
+CUST0159,28/1/2025,24,10591,Developer,321.69,230.9,3533.99,-0.99,679,Trying to improve my credit score.
+CUST0160,5/1/2025,56,9857,Consultant,189.72,209.36,3985.78,-1.84,391,Saving for a house.
+CUST0161,23/1/2025,22,14797,Trader,153.88,5.46,3907.51,1.28,722,Investing more into mutual funds.
+CUST0162,21/1/2025,62,9380,Teacher,120.47,148.14,1079.68,4.62,607,Looking to diversify investments.
+CUST0163,28/1/2025,51,6719,Student,287.32,181.98,7023.81,1.14,320,I might reduce spending on dining.
+CUST0164,1/1/2025,26,10616,Consultant,226.01,140,6617.86,-0.92,583,Investing more into mutual funds.
+CUST0165,15/1/2025,25,,Nurse,190.1,208.57,4939.77,1.02,307,Planning to buy a car soon.
+CUST0166,24/1/2025,62,13698,Student,5.29,161.15,5471.52,0.46,735,Investing more into mutual funds.
+CUST0167,5/1/2025,60,12681,Developer,300.42,161.3,4748.12,-0.93,667,I need to manage my expenses better.
+CUST0168,2/1/2025,42,4376,Engineer,131.09,97.17,6924.4,0.39,448,Saving for a house.
+CUST0169,16/1/2025,30,11908,Designer,243.06,214.35,4270.09,-1.18,701,I plan to increase my savings next month.
+CUST0170,22/1/2025,42,13889,Designer,225.2,140.02,4908.24,4.59,412,I plan to increase my savings next month.
+CUST0171,12/1/2025,56,12736,Trader,186.63,166.95,4502.62,3.71,601,I need to manage my expenses better.
+CUST0172,22/1/2025,28,14543,Developer,133.72,204.56,8459.78,1.1,840,Planning to buy a car soon.
+CUST0173,23/1/2025,32,6082,Engineer,239.56,193.42,9600.82,2.65,814,I plan to increase my savings next month.
+CUST0174,15/1/2025,56,8251,Consultant,185.71,211.05,5412.5,-1.91,428,I might reduce spending on dining.
+CUST0175,10/1/2025,52,7343,Developer,96.52,214.68,6518.42,1.67,365,I might reduce spending on dining.
+CUST0176,26/1/2025,39,12473,Nurse,225,169.16,6547.67,2.74,369,Investing more into mutual funds.
+CUST0177,10/1/2025,21,,Consultant,217.97,205.96,2163.27,-3.02,704,I plan to increase my savings next month.
+CUST0178,23/1/2025,62,12512,Consultant,202.32,214.52,3924.62,,354,I plan to increase my savings next month.
+CUST0179,19/1/2025,47,2593,Nurse,262.27,116.93,3363.6,0.49,705,Looking to diversify investments.
+CUST0180,19/1/2025,48,2867,Teacher,108.66,138.38,3566.36,,445,I need to manage my expenses better.
+CUST0181,22/1/2025,64,3019,Consultant,118.07,261.25,7442.07,1.66,698,I need to manage my expenses better.
+CUST0182,16/1/2025,26,14889,Engineer,224.3,67.4,6435.98,3.85,725,I might reduce spending on dining.
+CUST0183,17/1/2025,54,12195,Teacher,255.51,143.83,6818.43,3.36,594,Saving for a house.
+CUST0184,22/1/2025,23,,Teacher,162.85,129.23,6456.94,0.15,847,
+CUST0185,7/1/2025,39,11435,Teacher,228.4,136.73,3319.44,-1.35,481,Saving for a house.
+CUST0186,24/1/2025,26,7347,Consultant,210.33,120.66,1104.23,2.07,818,I plan to increase my savings next month.
+CUST0187,24/1/2025,28,3171,Engineer,256.19,155.8,4780.9,-0.71,441,Trying to improve my credit score.
+CUST0188,26/1/2025,20,5670,Nurse,155.42,86.16,5614.13,0.24,744,Looking to diversify investments.
+CUST0189,23/1/2025,59,,Consultant,229.95,152.11,4016.05,-2.29,342,Planning to buy a car soon.
+CUST0190,6/1/2025,23,3517,Trader,181.07,219.02,5808.51,-1.27,356,Looking to diversify investments.
+CUST0191,12/1/2025,56,13349,Designer,201.66,106.32,4634.21,3.25,542,I need to manage my expenses better.
+CUST0192,4/1/2025,37,11369,Consultant,209.81,247.48,5646.16,0,680,Looking to diversify investments.
+CUST0193,30/1/2025,19,7879,Teacher,97.36,94.69,7529.16,-0.43,735,Planning to buy a car soon.
+CUST0194,11/1/2025,22,14594,Teacher,209.06,63.7,6838.46,-0.84,463,Investing more into mutual funds.
+CUST0195,14/1/2025,32,8063,Designer,102.47,157.06,6965.15,1.81,686,Planning to buy a car soon.
+CUST0196,28/1/2025,55,13168,Engineer,156.28,119.06,5595.96,2.02,559,I need to manage my expenses better.
+CUST0197,16/1/2025,26,14150,Trader,199.27,168.19,5735.04,-0.73,461,Saving for a house.
+CUST0198,25/1/2025,44,10004,Engineer,159.83,183.52,5586.79,0.35,775,I plan to increase my savings next month.
+CUST0199,11/1/2025,36,9544,Student,222.14,193.93,2780.71,-1.18,430,Planning to buy a car soon.
+CUST0200,26/1/2025,45,5831,Nurse,180.89,127.99,4216.48,-1.34,637,Saving for a house.
+CUST0201,5/1/2025,39,8416,Teacher,234.35,172.95,4021.81,,782,I might reduce spending on dining.
+CUST0202,28/1/2025,26,7779,Nurse,182.06,114.35,4328.04,,442,Investing more into mutual funds.
+CUST0203,14/1/2025,63,,Developer,184.1,168.01,5564.42,1.99,550,Trying to improve my credit score.
+CUST0204,14/1/2025,63,4597,Consultant,211.27,216.04,5505.87,,806,Investing more into mutual funds.
+CUST0205,22/1/2025,43,,Developer,165.18,195.04,5391.95,1.13,583,Saving for a house.
+CUST0206,20/1/2025,36,,Designer,227.16,111.25,3178.59,0.68,585,Looking to diversify investments.
+CUST0207,9/1/2025,31,3762,Engineer,284.01,98.16,5856.63,2.3,426,I need to manage my expenses better.
+CUST0208,12/1/2025,65,11885,Trader,205.6,219.71,3145.29,0.98,500,I plan to increase my savings next month.
+CUST0209,1/1/2025,41,12719,Nurse,110.37,143.4,3026.72,-0.44,705,Investing more into mutual funds.
+CUST0210,4/1/2025,46,14466,Engineer,135.08,173.32,6454.64,-0.85,791,I need to manage my expenses better.
+CUST0211,6/1/2025,18,11302,Designer,191.56,138.94,4120.82,-3.92,582,Looking to diversify investments.
+CUST0212,17/1/2025,46,,Trader,154.99,286.69,2424.11,-4.76,348,
+CUST0213,7/1/2025,50,6697,Trader,225.53,230.43,1249.66,0.73,681,I might reduce spending on dining.
+CUST0214,21/1/2025,34,2855,Student,208.28,20.27,4962.88,2.65,793,Planning to buy a car soon.
+CUST0215,12/1/2025,18,13431,Designer,246.33,170.9,2636.11,2.17,744,I might reduce spending on dining.
+CUST0216,25/1/2025,22,6615,Teacher,161.36,158.81,8224.44,2.29,623,Saving for a house.
+CUST0217,28/1/2025,36,3774,Trader,273.58,156.84,1651.11,-1.29,340,Planning to buy a car soon.
+CUST0218,11/1/2025,19,3842,Developer,204.45,302.81,4397.49,-0.13,753,
+CUST0219,8/1/2025,33,13613,Teacher,244.7,205.05,95.19,,610,Planning to buy a car soon.
+CUST0220,25/1/2025,66,11342,Teacher,268.44,227.24,5941.96,2.19,719,Trying to improve my credit score.
+CUST0221,12/1/2025,47,5259,Engineer,242.25,179.32,1361.38,-0.89,417,I might reduce spending on dining.
+CUST0222,7/1/2025,45,13172,Trader,122.85,124.19,5099.16,0.18,718,Investing more into mutual funds.
+CUST0223,6/1/2025,66,13120,Designer,208.57,221.8,5543.75,2.82,785,Planning to buy a car soon.
+CUST0224,24/1/2025,22,9069,Teacher,202.24,175.09,1465.41,-2.4,561,I plan to increase my savings next month.
+CUST0225,29/1/2025,54,4169,Trader,87.7,62.81,-247.58,-1.94,500,Looking to diversify investments.
+CUST0226,13/1/2025,69,3936,Developer,198.54,173.83,2463.93,0.75,678,I plan to increase my savings next month.
+CUST0227,26/1/2025,62,9730,Teacher,186.55,121.67,1041.4,2,579,I might reduce spending on dining.
+CUST0228,17/1/2025,53,8652,Engineer,127.83,213.64,7130.7,-0.77,464,Saving for a house.
+CUST0229,22/1/2025,54,12403,Engineer,220.3,178.06,7171.57,,694,Saving for a house.
+CUST0230,26/1/2025,58,2557,Consultant,230.17,148.24,7252.1,0.4,527,I need to manage my expenses better.
+CUST0231,11/1/2025,32,3946,Consultant,182.25,190.46,6072.78,1.11,381,Trying to improve my credit score.
+CUST0232,3/1/2025,24,2364,Trader,184.21,140.92,4610.18,2.77,446,
+CUST0233,29/1/2025,64,9661,Consultant,356.57,135.52,6903.92,2.7,619,I might reduce spending on dining.
+CUST0234,30/1/2025,41,,Student,157.15,201.4,6030.09,1.93,848,I plan to increase my savings next month.
+CUST0235,1/1/2025,26,13390,Trader,228.12,214.21,4946.96,,683,I might reduce spending on dining.
+CUST0236,14/1/2025,25,9938,Nurse,48.51,162.8,5002.41,,679,Saving for a house.
+CUST0237,28/1/2025,30,,Student,177.67,211.66,3422.12,-0.44,326,I might reduce spending on dining.
+CUST0238,21/1/2025,34,7789,Teacher,318.5,121.29,6196.12,-1.2,843,Saving for a house.
+CUST0239,18/1/2025,69,10851,Consultant,264.57,91.59,5952.72,1.51,321,I plan to increase my savings next month.
+CUST0240,12/1/2025,25,7585,Trader,53.33,148.31,5670.48,-1.39,374,I need to manage my expenses better.
+CUST0241,29/1/2025,66,9161,Teacher,173.77,159.31,6650.2,-1.23,456,Trying to improve my credit score.
+CUST0242,12/1/2025,26,7793,Trader,268.68,159.08,4775.29,1.78,497,Planning to buy a car soon.
+CUST0243,29/1/2025,40,8361,Consultant,325.5,70.31,6044.49,-1.13,312,Planning to buy a car soon.
+CUST0244,25/1/2025,21,14718,Designer,150.59,131.04,6231.54,2.91,400,Planning to buy a car soon.
+CUST0245,16/1/2025,52,5374,Designer,155.96,76.76,3983.72,0.2,312,I plan to increase my savings next month.
+CUST0246,9/1/2025,33,,Teacher,231.4,187.78,7298.85,1.65,472,Trying to improve my credit score.
+CUST0247,28/1/2025,53,9170,Trader,172.53,267.88,3383.61,,534,I might reduce spending on dining.
+CUST0248,12/1/2025,27,8708,Teacher,223.87,111.91,5583.46,0.13,697,I need to manage my expenses better.
+CUST0249,22/1/2025,34,14043,Nurse,273.12,93.09,7823.75,-0.6,418,Investing more into mutual funds.
+CUST0250,22/1/2025,29,5866,Consultant,180.98,161.53,6961.71,-0.98,818,
+CUST0251,4/1/2025,60,8516,Trader,282.21,157.87,6039.73,4.39,524,Planning to buy a car soon.
+CUST0252,3/1/2025,21,14903,Consultant,224.97,159,3760.13,,423,Planning to buy a car soon.
+CUST0253,5/1/2025,26,2630,Student,370.11,175.98,6680.02,4.46,577,Investing more into mutual funds.
+CUST0254,26/1/2025,59,13704,Developer,163.17,201.88,6806.9,0.62,711,Saving for a house.
+CUST0255,22/1/2025,55,2215,Student,278.99,145.44,4360.3,0.8,304,
+CUST0256,6/1/2025,50,13185,Trader,71.39,161.08,9047.21,0.51,752,Saving for a house.
+CUST0257,13/1/2025,31,,Developer,383.12,56.59,4884.78,2.75,792,Planning to buy a car soon.
+CUST0258,28/1/2025,30,11738,Designer,139.06,168.59,4941.13,5.06,389,Investing more into mutual funds.
+CUST0259,23/1/2025,35,9186,Trader,215.18,110.28,5851.77,0.54,546,I need to manage my expenses better.
+CUST0260,30/1/2025,53,14782,Nurse,311.4,220.52,5464.31,,392,
+CUST0261,28/1/2025,54,10155,Developer,250.29,73.84,3608.66,-1.67,621,Trying to improve my credit score.
+CUST0262,29/1/2025,44,13128,Nurse,367.98,135.18,4283.32,-0.8,546,
+CUST0263,17/1/2025,46,6422,Student,141.51,164.52,1590.61,-0.35,316,Looking to diversify investments.
+CUST0264,4/1/2025,44,3105,Engineer,135.68,194.77,2829.09,1.92,555,Looking to diversify investments.
+CUST0265,19/1/2025,43,14146,Trader,182.56,83.36,7840.51,-0.57,383,I need to manage my expenses better.
+CUST0266,19/1/2025,58,11583,Teacher,165.59,155.18,2237.78,3.27,570,I plan to increase my savings next month.
+CUST0267,29/1/2025,44,14327,Nurse,271.95,194.68,7117.01,-0.46,589,Planning to buy a car soon.
+CUST0268,5/1/2025,40,,Developer,276.24,17.55,9844.81,2.22,625,Saving for a house.
+CUST0269,29/1/2025,55,5156,Consultant,279.6,140.25,7213.98,-1.31,719,Investing more into mutual funds.
+CUST0270,30/1/2025,67,13805,Trader,154.35,194.05,3766.79,-0.25,795,Trying to improve my credit score.
+CUST0271,22/1/2025,39,,Student,339.11,208.73,5170.64,-1.12,501,Planning to buy a car soon.
+CUST0272,10/1/2025,34,5722,Student,20.75,132.37,5289.19,1.48,401,Saving for a house.
+CUST0273,24/1/2025,34,12728,Consultant,171.62,127.3,4164.44,2.38,717,Planning to buy a car soon.
+CUST0274,20/1/2025,23,3363,Designer,258.99,218.47,8268.27,-3.79,773,I might reduce spending on dining.
+CUST0275,19/1/2025,35,10560,Developer,168.07,167.99,5972.26,3,614,Looking to diversify investments.
+CUST0276,21/1/2025,57,12578,Nurse,345.54,152.4,4524.11,1.04,782,I might reduce spending on dining.
+CUST0277,4/1/2025,42,5731,Engineer,80.87,210.9,5012.96,3.21,818,I might reduce spending on dining.
+CUST0278,18/1/2025,36,13442,Trader,146.98,120.22,2546.25,-0.37,439,I might reduce spending on dining.
+CUST0279,22/1/2025,31,9236,Trader,141.72,73.32,4508.3,-0.73,496,I need to manage my expenses better.
+CUST0280,7/1/2025,50,5765,Trader,105.16,181.26,8040.68,-0.49,703,I might reduce spending on dining.
+CUST0281,30/1/2025,25,8361,Nurse,93.73,154.65,8027.2,-0.73,773,Looking to diversify investments.
+CUST0282,3/1/2025,24,9162,Student,193.32,63.02,3156.28,-1.51,465,I plan to increase my savings next month.
+CUST0283,6/1/2025,46,3518,Engineer,190.67,106.61,4197.88,4.24,782,
+CUST0284,27/1/2025,20,3742,Student,295.19,210.82,1850.04,,399,I need to manage my expenses better.
+CUST0285,25/1/2025,36,11369,Student,244.12,170.44,5781.39,-2.15,713,
+CUST0286,9/1/2025,21,2816,Engineer,245.76,146.27,7248.71,-0.17,561,
+CUST0287,20/1/2025,67,5490,Developer,225.32,161.38,1789.07,,678,Investing more into mutual funds.
+CUST0288,25/1/2025,34,,Trader,297.56,212.17,6174.28,-1.76,450,
+CUST0289,14/1/2025,50,8136,Designer,126.7,100.09,4865.64,-0.93,613,Looking to diversify investments.
+CUST0290,6/1/2025,27,3361,Teacher,189.28,5.56,6833.49,-0.89,686,Trying to improve my credit score.
+CUST0291,14/1/2025,63,2690,Developer,254.67,137.44,7145.96,5.23,668,I need to manage my expenses better.
+CUST0292,27/1/2025,35,14855,Consultant,371.31,104.96,6661.42,-1.53,719,Saving for a house.
+CUST0293,22/1/2025,35,,Trader,237.25,230.57,5793.26,-2.13,434,Planning to buy a car soon.
+CUST0294,23/1/2025,32,9296,Teacher,258.98,140.48,5084.97,-1.51,320,I need to manage my expenses better.
+CUST0295,4/1/2025,36,2802,Consultant,119.37,82.98,5199.21,-2.82,834,I plan to increase my savings next month.
+CUST0296,13/1/2025,41,8296,Trader,243.91,134.7,4749.09,1.16,476,I might reduce spending on dining.
+CUST0297,9/1/2025,38,8972,Consultant,224.66,20.6,5568.65,0.94,375,Saving for a house.
+CUST0298,29/1/2025,39,12696,Trader,14.27,86.06,3465.96,,344,Looking to diversify investments.
+CUST0299,30/1/2025,23,13281,Nurse,177.52,175.5,3440.69,-0.08,533,
+CUST0300,30/1/2025,36,14174,Trader,209,176.7,815.79,3.33,780,I need to manage my expenses better.
+CUST0301,18/1/2025,18,3948,Engineer,242.42,32.49,4282.31,0.61,538,Saving for a house.
+CUST0302,24/1/2025,46,6390,Nurse,120.33,189.07,6716.9,0.03,306,I need to manage my expenses better.
+CUST0303,25/1/2025,34,8314,Teacher,127.47,252.56,4474.89,1.23,679,Planning to buy a car soon.
+CUST0304,25/1/2025,18,9260,Teacher,178.65,170.2,4224.64,-0.85,498,I plan to increase my savings next month.
+CUST0305,11/1/2025,62,6994,Engineer,185.23,108.11,4448.6,2.38,484,Planning to buy a car soon.
+CUST0306,18/1/2025,66,6780,Nurse,296.01,120.49,1246.89,1.74,302,
+CUST0307,28/1/2025,21,7626,Nurse,271.77,226.49,6303.04,-1.78,647,I need to manage my expenses better.
+CUST0308,8/1/2025,65,12147,Developer,314.83,17.44,669.04,1.11,779,Saving for a house.
+CUST0309,27/1/2025,61,5612,Trader,164.56,121.23,5593.15,1.43,700,Investing more into mutual funds.
+CUST0310,10/1/2025,43,10995,Teacher,349.17,216.6,4815.2,-1.93,568,Looking to diversify investments.
+CUST0311,27/1/2025,57,9404,Student,275.41,201.63,9154.76,3.34,477,I might reduce spending on dining.
+CUST0312,30/1/2025,49,2383,Designer,112.65,203.41,5343.68,1.61,428,Trying to improve my credit score.
+CUST0313,4/1/2025,63,2922,Student,249.12,181.7,5699.78,0.44,639,I might reduce spending on dining.
+CUST0314,5/1/2025,25,10960,Student,173.39,179.49,3923.93,0.63,516,Trying to improve my credit score.
+CUST0315,8/1/2025,46,14742,Trader,146.44,166.51,6487.75,1.68,849,Trying to improve my credit score.
+CUST0316,29/1/2025,48,11306,Consultant,118.67,135.36,4921.39,,798,Trying to improve my credit score.
+CUST0317,14/1/2025,52,,Student,219.17,179.05,3458.86,-0.3,534,Investing more into mutual funds.
+CUST0318,25/1/2025,27,14626,Designer,215.49,113.84,6768.48,2.84,575,I plan to increase my savings next month.
+CUST0319,28/1/2025,51,8838,Developer,82.34,158.47,7236.92,1.6,767,Saving for a house.
+CUST0320,23/1/2025,35,5226,Consultant,216.16,189.14,5314.9,-0.47,481,I plan to increase my savings next month.
+CUST0321,15/1/2025,21,8336,Consultant,94.33,284.18,4641.7,-2.04,595,Investing more into mutual funds.
+CUST0322,13/1/2025,43,7213,Student,219.31,80.94,5772.65,0.09,837,Trying to improve my credit score.
+CUST0323,29/1/2025,37,9175,Student,135.41,141.06,6863.14,1.02,443,Looking to diversify investments.
+CUST0324,16/1/2025,64,7047,Student,297.03,119.79,3793.58,-0.77,764,Trying to improve my credit score.
+CUST0325,30/1/2025,48,11076,Teacher,171.68,98.17,969.59,-2,363,Investing more into mutual funds.
+CUST0326,7/1/2025,51,8065,Student,147.23,107.71,1540.2,0.04,784,Investing more into mutual funds.
+CUST0327,12/1/2025,25,7415,Developer,269.96,111.01,2593.6,-1.58,359,Planning to buy a car soon.
+CUST0328,5/1/2025,30,6131,Consultant,268.09,240.03,4847.81,-1.93,565,I might reduce spending on dining.
+CUST0329,17/1/2025,65,7462,Nurse,225.04,147.74,8091.42,-1,480,I plan to increase my savings next month.
+CUST0330,19/1/2025,65,2529,Designer,213.92,87.66,5033.1,-0.2,500,Investing more into mutual funds.
+CUST0331,16/1/2025,24,2226,Trader,63.69,94.53,8125.78,-0.05,787,I need to manage my expenses better.
+CUST0332,14/1/2025,36,3881,Student,101.34,189.64,806.65,2.23,486,Investing more into mutual funds.
+CUST0333,28/1/2025,47,7570,Student,5.91,134.74,5426.91,2.16,721,Saving for a house.
+CUST0334,3/1/2025,31,11759,Consultant,299.06,97.38,1295.35,2.17,607,Looking to diversify investments.
+CUST0335,22/1/2025,37,5558,Developer,253.61,231.95,3838.35,0.76,799,Looking to diversify investments.
+CUST0336,17/1/2025,32,3996,Trader,120.02,102.99,6402.51,0.86,410,Trying to improve my credit score.
+CUST0337,16/1/2025,42,3724,Engineer,309.77,186.43,8774.67,0.74,312,I plan to increase my savings next month.
+CUST0338,23/1/2025,30,3647,Developer,102.55,189.21,4245.36,,663,
+CUST0339,20/1/2025,50,3848,Student,251.94,195.44,3704.74,-1.75,439,Investing more into mutual funds.
+CUST0340,30/1/2025,25,3690,Developer,270.49,243.36,8824.82,2.23,780,Looking to diversify investments.
+CUST0341,6/1/2025,40,11783,Nurse,85.24,86.56,4135.75,3.63,532,I need to manage my expenses better.
+CUST0342,2/1/2025,38,9282,Engineer,240.43,161.75,6390.04,-2.42,446,Planning to buy a car soon.
+CUST0343,20/1/2025,54,9538,Engineer,128.86,207.32,6752.09,3.45,793,I plan to increase my savings next month.
+CUST0344,10/1/2025,45,6992,Student,279.73,122.01,6280.96,0.12,791,Trying to improve my credit score.
+CUST0345,23/1/2025,48,,Consultant,195.58,179.09,1701.93,0.52,809,Trying to improve my credit score.
+CUST0346,19/1/2025,57,13273,Nurse,124.09,254.84,6864.38,0.03,439,Looking to diversify investments.
+CUST0347,25/1/2025,18,11461,Developer,211.8,154.62,7037.15,1.08,768,Saving for a house.
+CUST0348,26/1/2025,32,10185,Developer,233.21,111.36,7304.06,4.14,369,I plan to increase my savings next month.
+CUST0349,18/1/2025,21,,Student,351.71,163.19,7785.09,-3.6,479,I might reduce spending on dining.
+CUST0350,13/1/2025,22,,Developer,183.28,111.57,5348.92,-1.17,496,Saving for a house.
+CUST0351,28/1/2025,68,7898,Student,234.79,130.63,6355.28,2.08,744,I plan to increase my savings next month.
+CUST0352,26/1/2025,56,5806,Developer,47.38,98.38,4172.79,4.28,410,I might reduce spending on dining.
+CUST0353,15/1/2025,59,6500,Teacher,192.51,229.55,2425.67,-2.29,828,Planning to buy a car soon.
+CUST0354,13/1/2025,65,2589,Nurse,163.91,183.1,7400.52,-0.43,808,Investing more into mutual funds.
+CUST0355,6/1/2025,52,11275,Developer,157.34,163.54,8673.35,-2.36,304,Looking to diversify investments.
+CUST0356,4/1/2025,67,8289,Developer,337.88,179.95,4730.4,-0.91,698,I plan to increase my savings next month.
+CUST0357,19/1/2025,34,4466,Nurse,258.98,84.5,3726.35,-3.22,626,I need to manage my expenses better.
+CUST0358,26/1/2025,30,,Nurse,59.09,167.99,3588.79,-1.38,486,Planning to buy a car soon.
+CUST0359,13/1/2025,43,11499,Engineer,156.71,166.87,3246.14,-1.73,803,I might reduce spending on dining.
+CUST0360,30/1/2025,33,6066,Consultant,216.19,247.91,3533.93,4.14,470,
+CUST0361,4/1/2025,63,8763,Engineer,200.22,244.73,1864.58,-0.33,756,Saving for a house.
+CUST0362,11/1/2025,20,5177,Developer,280.19,215.08,2760.89,-0.98,715,Investing more into mutual funds.
+CUST0363,16/1/2025,37,4197,Teacher,133.3,280.94,4643.56,-2.23,829,Saving for a house.
+CUST0364,15/1/2025,36,2124,Developer,191.62,12.21,5373.61,-1.61,794,Investing more into mutual funds.
+CUST0365,9/1/2025,47,14662,Teacher,153.66,136.5,6272.47,-0.52,513,I might reduce spending on dining.
+CUST0366,22/1/2025,19,,Consultant,168.95,66.66,3617.25,2.59,538,I plan to increase my savings next month.
+CUST0367,2/1/2025,56,7877,Consultant,204.62,107.06,8128.54,1.32,311,I might reduce spending on dining.
+CUST0368,4/1/2025,34,6471,Consultant,191.15,96.2,6683.97,-0.24,699,I might reduce spending on dining.
+CUST0369,3/1/2025,54,8940,Nurse,355,140.64,2084.78,1.04,320,Investing more into mutual funds.
+CUST0370,4/1/2025,37,6933,Designer,120.83,135.37,5772.62,-0.28,329,Planning to buy a car soon.
+CUST0371,20/1/2025,46,4581,Engineer,175,186.6,4061.72,-2.36,415,I plan to increase my savings next month.
+CUST0372,18/1/2025,21,5121,Engineer,210.28,127.57,3329.43,0.64,599,Trying to improve my credit score.
+CUST0373,19/1/2025,24,6675,Teacher,162.93,87.92,5087.06,3.72,714,Saving for a house.
+CUST0374,2/1/2025,69,3161,Nurse,323.18,216.35,9452.04,0.52,722,Trying to improve my credit score.
+CUST0375,7/1/2025,38,,Consultant,253.08,106.55,6172.67,-0.29,407,I might reduce spending on dining.
+CUST0376,3/1/2025,28,,Designer,294.68,79.32,8334.45,3.55,615,Saving for a house.
+CUST0377,28/1/2025,49,,Engineer,187.12,174.3,7477.39,3.12,602,I might reduce spending on dining.
+CUST0378,11/1/2025,37,8897,Engineer,229.37,75.92,3000.2,0.03,500,Planning to buy a car soon.
+CUST0379,2/1/2025,56,6155,Teacher,315.46,17.61,3908.31,-1.24,377,I need to manage my expenses better.
+CUST0380,7/1/2025,37,4172,Developer,138.15,150.03,5392.61,-1.1,427,I might reduce spending on dining.
+CUST0381,14/1/2025,62,9189,Engineer,72.63,202.45,5747.54,,593,Investing more into mutual funds.
+CUST0382,8/1/2025,22,12900,Developer,186.97,86.89,5172.85,0.07,636,I plan to increase my savings next month.
+CUST0383,17/1/2025,49,7675,Nurse,139.18,167.23,8070.3,,505,Looking to diversify investments.
+CUST0384,19/1/2025,34,6571,Student,306.58,163.6,8117.44,-1.67,807,Looking to diversify investments.
+CUST0385,11/1/2025,61,14895,Trader,136.34,138.97,1074.58,-0.29,736,Looking to diversify investments.
+CUST0386,29/1/2025,23,6103,Designer,121.1,235.11,6685.66,2.91,663,I plan to increase my savings next month.
+CUST0387,22/1/2025,21,2242,Developer,254.36,215.8,3491.59,2.6,410,I need to manage my expenses better.
+CUST0388,10/1/2025,69,13463,Student,55.47,161.73,2885.89,,436,I plan to increase my savings next month.
+CUST0389,23/1/2025,29,7326,Developer,252.59,73.78,8941.73,0.46,668,Looking to diversify investments.
+CUST0390,15/1/2025,69,,Teacher,311.97,69.47,2268.35,0.2,720,
+CUST0391,22/1/2025,42,10572,Nurse,250.15,161.19,2619.6,2.67,647,Trying to improve my credit score.
+CUST0392,15/1/2025,45,,Teacher,285.33,118.71,3387.56,0.37,633,I might reduce spending on dining.
+CUST0393,29/1/2025,63,4547,Teacher,189.09,213.62,8026.69,,545,Investing more into mutual funds.
+CUST0394,22/1/2025,59,5590,Engineer,176.26,128.53,3860.7,-1.03,795,Trying to improve my credit score.
+CUST0395,21/1/2025,18,7867,Consultant,183.81,154.62,8001.3,2.32,559,Planning to buy a car soon.
+CUST0396,24/1/2025,52,14028,Engineer,214.79,233.44,5247.83,-1.08,676,Saving for a house.
+CUST0397,4/1/2025,64,9354,Student,239.08,291.7,4342.68,-3.45,788,I might reduce spending on dining.
+CUST0398,30/1/2025,61,8411,Trader,88.64,89.34,6191.58,-1.53,682,Trying to improve my credit score.
+CUST0399,8/1/2025,23,9211,Nurse,188.63,234.44,5797.39,-0.48,454,
+CUST0400,11/1/2025,46,3184,Trader,186,85.81,2470.63,3.56,573,Investing more into mutual funds.
+CUST0401,1/1/2025,54,11401,Consultant,165.94,178.27,2252,-0.04,495,I plan to increase my savings next month.
+CUST0402,6/1/2025,61,14670,Student,5.27,59.39,4777.96,0.74,523,Saving for a house.
+CUST0403,5/1/2025,62,13925,Student,312.03,183.25,1911.25,0.76,422,Looking to diversify investments.
+CUST0404,6/1/2025,32,10226,Consultant,282.42,129.98,3342.14,,474,I plan to increase my savings next month.
+CUST0405,13/1/2025,40,13279,Developer,158.8,130.66,-298.2,3.2,565,Planning to buy a car soon.
+CUST0406,12/1/2025,42,2305,Trader,262.8,216.98,7211.26,2.34,324,Investing more into mutual funds.
+CUST0407,25/1/2025,35,13707,Trader,187.29,124.89,4058.68,,767,Planning to buy a car soon.
+CUST0408,26/1/2025,65,10514,Nurse,322.42,189.9,3150.87,,568,I need to manage my expenses better.
+CUST0409,10/1/2025,35,11281,Trader,87.68,308.7,3205.02,-2.12,446,I might reduce spending on dining.
+CUST0410,24/1/2025,62,11643,Designer,77.82,47.87,3805.15,2.66,738,Investing more into mutual funds.
+CUST0411,20/1/2025,45,4938,Nurse,136.36,175.46,7559.04,,642,Trying to improve my credit score.
+CUST0412,13/1/2025,52,6539,Teacher,153.46,79.57,4604.12,4.64,651,Investing more into mutual funds.
+CUST0413,25/1/2025,50,3940,Teacher,150.68,89.78,3926.55,1.93,434,Saving for a house.
+CUST0414,13/1/2025,26,6340,Student,96.06,127.56,2803.82,0.58,476,Saving for a house.
+CUST0415,9/1/2025,34,10219,Consultant,155.57,91.58,6672.45,0.15,849,Saving for a house.
+CUST0416,21/1/2025,20,7622,Developer,128.7,146.29,6705.19,4.74,643,I plan to increase my savings next month.
+CUST0417,28/1/2025,62,14208,Teacher,218.23,91.27,7039.18,-2.45,324,I might reduce spending on dining.
+CUST0418,2/1/2025,36,6576,Engineer,241.39,115.95,2758.08,-3.54,344,I need to manage my expenses better.
+CUST0419,7/1/2025,65,3514,Designer,273.28,194.96,6219.47,,680,Planning to buy a car soon.
+CUST0420,9/1/2025,26,12860,Designer,117.63,95.49,6324.23,-3.36,368,Saving for a house.
+CUST0421,13/1/2025,19,5676,Student,168.2,131.05,2183.79,,820,Saving for a house.
+CUST0422,24/1/2025,59,11379,Consultant,54.94,86.48,9024.07,0.77,786,Trying to improve my credit score.
+CUST0423,25/1/2025,22,6086,Trader,164.41,95.8,4850.09,1.47,405,Trying to improve my credit score.
+CUST0424,20/1/2025,28,4933,Nurse,133.25,195.84,1914.4,-0.77,666,Investing more into mutual funds.
+CUST0425,12/1/2025,32,6312,Teacher,79.34,80.58,4953.95,-0.96,531,I plan to increase my savings next month.
+CUST0426,17/1/2025,36,3577,Designer,262.63,124.13,5816.11,1.6,817,I plan to increase my savings next month.
+CUST0427,17/1/2025,42,3462,Nurse,108.82,193.1,3396.59,-1.62,583,Saving for a house.
+CUST0428,21/1/2025,43,2687,Teacher,112.47,195.35,6894.72,-0.91,626,I need to manage my expenses better.
+CUST0429,27/1/2025,21,13298,Engineer,87.78,210.38,4876.89,0.42,386,Trying to improve my credit score.
+CUST0430,4/1/2025,67,12814,Engineer,60.85,192.28,7906.56,0.27,523,Investing more into mutual funds.
+CUST0431,16/1/2025,31,2446,Consultant,121.73,234.41,5722.83,1.72,349,Investing more into mutual funds.
+CUST0432,18/1/2025,44,8414,Nurse,89.17,197.6,6993.05,-0.96,651,I need to manage my expenses better.
+CUST0433,2/1/2025,30,11216,Consultant,85.13,71.05,5562.02,,801,Looking to diversify investments.
+CUST0434,14/1/2025,42,6645,Engineer,217.19,116.29,1893.14,3.99,744,Investing more into mutual funds.
+CUST0435,17/1/2025,66,11130,Student,216.19,182.53,3320.76,,624,Trying to improve my credit score.
+CUST0436,5/1/2025,54,11928,Teacher,255.64,323.05,6655.2,,456,Trying to improve my credit score.
+CUST0437,1/1/2025,18,8240,Nurse,202.71,87.49,2533,-2.48,843,Looking to diversify investments.
+CUST0438,16/1/2025,23,4365,Nurse,261.01,101.11,6575.8,-2.35,739,Trying to improve my credit score.
+CUST0439,10/1/2025,56,6284,Consultant,224.92,175.82,4810.19,0.57,370,Looking to diversify investments.
+CUST0440,1/1/2025,39,13769,Teacher,180.78,204.96,4168.98,,773,Looking to diversify investments.
+CUST0441,6/1/2025,68,12930,Student,280.15,120.15,3435.99,-1.02,730,
+CUST0442,30/1/2025,52,14861,Engineer,230.88,147.02,6225.26,2.09,842,I plan to increase my savings next month.
+CUST0443,23/1/2025,55,6493,Trader,237.15,116.97,5632.72,-1.27,781,Investing more into mutual funds.
+CUST0444,5/1/2025,46,4757,Developer,192.61,72.55,3726.28,1.34,360,I plan to increase my savings next month.
+CUST0445,11/1/2025,53,2585,Consultant,204.28,164.58,7111.07,0.52,751,I need to manage my expenses better.
+CUST0446,18/1/2025,19,11225,Nurse,202.78,31.89,6309.95,2.12,639,Looking to diversify investments.
+CUST0447,6/1/2025,36,10081,Nurse,159.72,144.32,4731.69,1.32,847,I might reduce spending on dining.
+CUST0448,26/1/2025,19,3590,Teacher,305.18,116.07,7394.37,-2.45,712,Investing more into mutual funds.
+CUST0449,18/1/2025,20,9481,Engineer,351.2,190.93,5375.86,1.84,389,I need to manage my expenses better.
+CUST0450,10/1/2025,34,13360,Nurse,205.79,162.87,6443.06,0.71,331,Planning to buy a car soon.
+CUST0451,18/1/2025,63,12426,Student,16.15,118.88,-160.74,1.53,514,I plan to increase my savings next month.
+CUST0452,25/1/2025,28,4121,Designer,88.34,185.48,3552.02,0.11,723,Trying to improve my credit score.
+CUST0453,25/1/2025,19,7471,Engineer,257.66,114.77,3442.12,-0.13,667,Investing more into mutual funds.
+CUST0454,29/1/2025,35,14982,Student,323.62,294.85,4059.51,-0.36,400,I plan to increase my savings next month.
+CUST0455,4/1/2025,46,10926,Engineer,276,164.58,1934.6,0.11,830,I need to manage my expenses better.
+CUST0456,17/1/2025,63,14379,Teacher,153.93,23.99,6396.64,-0.01,572,Investing more into mutual funds.
+CUST0457,17/1/2025,20,7994,Engineer,168.56,210.1,7786.91,1.92,707,
+CUST0458,16/1/2025,27,4511,Student,329.18,130.68,7650.86,-2.31,635,Investing more into mutual funds.
+CUST0459,1/1/2025,31,14486,Nurse,190.68,249.89,3231.68,-4.68,439,Saving for a house.
+CUST0460,26/1/2025,51,12987,Engineer,20.08,175.42,2234.13,-1.86,636,I might reduce spending on dining.
+CUST0461,23/1/2025,63,6994,Trader,271,195.65,5120.17,1.28,808,Trying to improve my credit score.
+CUST0462,20/1/2025,35,2523,Trader,230.33,223.81,3806.05,-4.28,318,I might reduce spending on dining.
+CUST0463,27/1/2025,65,12886,Student,107.45,205.43,6077.66,1.97,592,Trying to improve my credit score.
+CUST0464,8/1/2025,43,6500,Teacher,250.41,37.4,5821.06,2.26,846,Looking to diversify investments.
+CUST0465,23/1/2025,55,2363,Teacher,151.34,171.79,5622.22,-3.28,815,Trying to improve my credit score.
+CUST0466,5/1/2025,21,13089,Engineer,133.25,185.01,4693.02,-3.62,740,Looking to diversify investments.
+CUST0467,21/1/2025,28,12875,Trader,265.35,185.69,6672.44,-0.98,759,I might reduce spending on dining.
+CUST0468,12/1/2025,39,5732,Consultant,244.06,138.32,5009.2,2.14,428,I need to manage my expenses better.
+CUST0469,10/1/2025,39,4603,Developer,331.47,171.64,3273.01,0.44,547,I plan to increase my savings next month.
+CUST0470,28/1/2025,50,10119,Trader,142.79,113.41,8150.78,0.56,843,I might reduce spending on dining.
+CUST0471,30/1/2025,69,2231,Teacher,318.01,102.68,6340.42,0.64,557,
+CUST0472,18/1/2025,52,6530,Student,303.22,72.58,7423.34,-2.6,841,Trying to improve my credit score.
+CUST0473,26/1/2025,28,2193,Developer,256.56,314.92,5291.79,-3.15,341,Looking to diversify investments.
+CUST0474,16/1/2025,40,5381,Trader,241.36,136.71,4955.4,-0.88,356,
+CUST0475,3/1/2025,36,12012,Engineer,215.4,218.69,3119.08,0.57,407,Investing more into mutual funds.
+CUST0476,7/1/2025,19,7092,Consultant,209.93,192.59,5441.62,-1.52,487,Investing more into mutual funds.
+CUST0477,20/1/2025,28,13593,Developer,123.93,169.11,3016.61,-0.77,339,Saving for a house.
+CUST0478,6/1/2025,53,3876,Designer,76.99,141.31,4108.11,0.73,520,Planning to buy a car soon.
+CUST0479,13/1/2025,56,12151,Engineer,176.8,128.3,4185.24,3.44,635,
+CUST0480,16/1/2025,43,6452,Teacher,200.52,116.56,8408.91,-1.96,583,Looking to diversify investments.
+CUST0481,13/1/2025,30,4665,Teacher,112.11,235.23,4773.04,0.94,844,I plan to increase my savings next month.
+CUST0482,11/1/2025,68,13849,Trader,251.95,198.67,4676.89,-0.75,606,Saving for a house.
+CUST0483,4/1/2025,33,10167,Developer,194.99,164.59,4411.51,3.21,608,Planning to buy a car soon.
+CUST0484,14/1/2025,51,,Designer,324.7,58.17,8259.28,-0.25,635,Trying to improve my credit score.
+CUST0485,26/1/2025,56,4911,Student,217.85,213.37,7208.99,-0.7,431,Trying to improve my credit score.
+CUST0486,24/1/2025,19,13824,Teacher,223.26,128.36,8324.15,0.61,350,Looking to diversify investments.
+CUST0487,25/1/2025,43,5151,Consultant,230.5,168.7,1962.18,-4.76,719,Investing more into mutual funds.
+CUST0488,17/1/2025,67,,Engineer,250.01,172.75,3904.74,-0.4,383,Saving for a house.
+CUST0489,5/1/2025,32,5057,Trader,165.38,197.63,4405.25,0.01,767,Trying to improve my credit score.
+CUST0490,27/1/2025,61,2579,Trader,185.97,179.49,4981.42,1.11,530,Saving for a house.
+CUST0491,8/1/2025,68,,Student,302.29,189.22,6350.82,0.23,470,
+CUST0492,1/1/2025,31,7111,Consultant,311.37,169.58,6792.57,0.54,370,I plan to increase my savings next month.
+CUST0493,20/1/2025,63,11174,Nurse,60.66,127.72,1706.27,1.71,318,
+CUST0494,9/1/2025,38,9394,Engineer,335.2,126.88,3883.58,0.14,735,Investing more into mutual funds.
+CUST0495,6/1/2025,65,,Consultant,263.83,38.44,5090.98,1.62,316,Saving for a house.
+CUST0496,5/1/2025,36,11744,Teacher,359.07,286.83,2647.96,,503,I need to manage my expenses better.
+CUST0497,5/1/2025,41,6109,Trader,222.13,150.51,1858.24,,643,I need to manage my expenses better.
+CUST0498,9/1/2025,49,12491,Engineer,193.21,240.61,5710.86,3.23,510,Trying to improve my credit score.
+CUST0499,10/1/2025,62,8784,Designer,213.14,281.77,5985.97,0.38,326,Planning to buy a car soon.
+CUST0500,8/1/2025,35,12667,Nurse,330.53,187.32,3485.75,0.02,337,Trying to improve my credit score.
